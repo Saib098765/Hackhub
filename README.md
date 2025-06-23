@@ -41,7 +41,9 @@ Generates predicted No2 value to the corresponding satellite image.
 
 Files: UI.py
 
-
+Ref files:
+* Google colab: https://colab.research.google.com/drive/1YOa90CGL6rZrzrYFzkxIopeU_3f-Vh8x#scrollTo=VLtDY_W0MXeX
+* Drive: https://drive.google.com/drive/u/0/folders/18TM6if_idJUIm74yKLcdoBbOkOTrp2GG
 
 
 
